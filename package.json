@@ -1,0 +1,45 @@
+{
+    "name": "react-touch-visualizer",
+    "version": "0.0.1",
+    "description": "React component for overlaying touch events. Useful for demos and debugging.",
+    "repository": "tombrowndev/react-touch-visualizer",
+    "license": "MIT",
+    "author": "Tom Brown (@tombrowndev)",
+    "files": [
+        "modules",
+        "cjs",
+        "esm",
+        "index.js"
+    ],
+    "main": "index.js",
+    "module": "esm/react-touch-visualizer.js",
+    "sideEffects": false,
+    "scripts": {
+        "build": "rollup -c",
+        "lint": "eslint src"
+    },
+    "peerDependencies": {
+        "react": ">=15",
+        "react-dom": ">=15"
+    },
+    "keywords": [
+        "react",
+        "touch",
+        "debugging",
+        "visualize"
+    ],
+    "dependencies": {
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.11.6",
+        "@babel/plugin-transform-runtime": "^7.11.5",
+        "@babel/preset-env": "^7.11.5",
+        "@babel/preset-react": "^7.10.4",
+        "rollup": "^2.26.11",
+        "rollup-plugin-babel": "^4.4.0",
+        "rollup-plugin-replace": "^2.2.0",
+        "rollup-plugin-uglify": "^6.0.4"
+    }
+}
