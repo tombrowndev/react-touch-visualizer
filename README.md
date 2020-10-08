@@ -4,7 +4,7 @@ A react component that visualizes multiple touch events.
 
 <img src="Logo.png?raw=true" width="500" />
 
-Created by [@M4yankChoudhary](https://github.com/M4yankChoudhary).
+Logo created by [@M4yankChoudhary](https://github.com/M4yankChoudhary).
 
 ## Installation
 
