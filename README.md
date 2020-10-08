@@ -2,6 +2,8 @@
 
 A react component that visualizes multiple touch events. 
 
+<img src="Logo.png?raw=true" width="500" />
+
 ## Installation
 
 ```
