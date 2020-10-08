@@ -4,6 +4,8 @@ A react component that visualizes multiple touch events.
 
 <img src="Logo.png?raw=true" width="500" />
 
+Created by [@M4yankChoudhary](https://github.com/M4yankChoudhary).
+
 ## Installation
 
 ```
@@ -12,15 +14,15 @@ npm install --save-dev react-touch-visualizer
 
 ## Usage
 
-Include the `Visualize` component anywhere in your component tree.
+Include the `Visualizer` component anywhere in your component tree.
 
 ```
-import { Visualize } from "react-touch-visualizer";
+import { Visualizer } from "react-touch-visualizer";
 
 const App = () => {
     return (
         <div className="app">
-            <Visualize />
+            <Visualizer />
             // ... rest of your app
         </div>
     );
