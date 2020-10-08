@@ -27,6 +27,6 @@ const App = () => {
 }
 ```
 
-## Contribute
+## Contributing
 
-As this project is in its infancy, I am looking for anybody who can spare some time to contribute. If you are interest, please get in touch with me on twitter [@tombrowndev](https://www.twitter.com/tombrowndev).
+As this project is in its infancy, I am looking for anybody who can spare some time to contribute. If you would like to contribute, please get in touch with me on twitter [@tombrowndev](https://www.twitter.com/tombrowndev).
